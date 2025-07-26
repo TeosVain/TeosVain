@@ -57,7 +57,7 @@
 ### 📫 Контакты
 
 - 📧 Email: timofey.kononov@mail.ru 
-- 💬 Telegram: [@TeosVain](https://t.me/TeosVain)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@TeosVain](https://t.me/TeosVain)
 - 🌐 LinkedIn: [linkedin.com/in/timkononov](https://www.linkedin.com/in/timofey-kononov-b2a049318/)
 - 🌍 [Сертификаты и достижения (GitHub репозиторий)](https://github.com/TeosVain/certificates)  
 
