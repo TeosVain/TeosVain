@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/image.png" alt="ATC + Developer" width="700"/>
+</p>
 <h1 align="center">Привет, я Тимофей 👋</h1>
 <p align="center">
   Python-разработчик | ATC Officer | Фанат технологий и алгоритмов
