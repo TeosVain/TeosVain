@@ -20,9 +20,9 @@
 
 | Проект | Описание | Технологии | Ссылка |
 |-------|----------|------------|--------|
-| **ATC Simulator** | Веб-симулятор авиадиспетчера в реальном времени | Django, DRF, WebSockets, Celery, Redis, Leaflet | [GitHub 🔗](https://github.com/...) |
-| **Foodgram** | Сервис рецептов и списка покупок | Django, PostgreSQL, Docker | [GitHub 🔗](https://github.com/...) |
-| **Kittygram** | Простой pet-проект для изучения Django | Django | [GitHub 🔗](https://github.com/...) |
+| **ATC Simulator** | Веб-симулятор авиадиспетчера в реальном времени | Django, DRF, WebSockets, Celery, Redis, Leaflet | [GitHub 🔗](https://github.com/TeosVain/ATC-SIM) |
+| **Foodgram** | Сервис рецептов и списка покупок | Django, PostgreSQL, Docker | [GitHub 🔗](https://github.com/TeosVain/foodgram) |
+| **Algorithms** | Набор реализаций известных алгоритмов и интересных задач | Python | [GitHub 🔗](https://github.com/TeosVain/Algorithms-and-Data-structures) |
 
 ---
 
@@ -49,15 +49,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white)
 
 ---
 
 ### 📫 Контакты
 
 - 📧 Email: timofey.kononov@mail.ru 
-- 💬 Telegram: [@TeosVain](https://t.me/TeosVain)  
-- 🌐 LinkedIn: [linkedin.com/in/timkononov](https://linkedin.com/in/...)  
-- 🌍 [Сертификаты и достижения (GitHub репозиторий)](https://github.com/...)  
+- 💬 Telegram: [@TeosVain](https://t.me/TeosVain)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- 🌐 LinkedIn: [linkedin.com/in/timkononov](https://www.linkedin.com/in/timofey-kononov-b2a049318/)
+- 🌍 [Сертификаты и достижения (GitHub репозиторий)](https://github.com/TeosVain/certificates)  
 
 ---
 
