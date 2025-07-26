@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/atc_dev_banner.png" alt="ATC + Developer" height="300" width="700"/>
+  <img src="./assets/atc_dev_banner.png" alt="ATC + Developer" height="400" width="700"/>
 </p>
 <h1 align="center">Привет, я Тимофей 👋</h1>
 <p align="center">
