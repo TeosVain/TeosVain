@@ -4,7 +4,7 @@
 
 <h1 align="center">Привет, я Тимофей 👋 | Hi, I'm Timofey 👋</h1>
 <p align="center">
-  Python-разработчик | ATC Officer | Tech & Algorithms Enthusiast
+  Python-developer | ATC Officer | Tech & Algorithms Enthusiast
 </p>
 
 <p align="center">
