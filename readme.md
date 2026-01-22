@@ -33,7 +33,7 @@
 
 ##  Достижения
 
-- **Финалист | 6место** - Хакатон "Лидеры цифровой трансформации 2025", команда "Экосистема Альфа"
+- 🏆 **Финалист | 6место** - Хакатон "Лидеры цифровой трансформации 2025", команда "Экосистема Альфа"
 - 🧠 **Топ-100** — Яндекс.Тренировки по алгоритмам 7.0 (2025)  
 - 🏅 **Топ-300** — CodeRun Boost Challenge (243 место из 2200+)  
 - ✈️ **ETIAN (ICAO English)** — уровень 4 по шкале ICAO  
@@ -70,7 +70,7 @@
 
 ## Achievements
 
-- **Finalist | 6th place** — Leaders of Digital Transformation 2025 Hackathon, “Ecosystem Alpha” team
+- 🏆 **Finalist | 6th place** — Leaders of Digital Transformation 2025 Hackathon, “Ecosystem Alpha” team
 - 🧠 **Top-100** — Yandex Algorithmic Training 7.0 (2025)
 - 🏅 **Top-300** — CodeRun Boost Challenge (243rd place out of 2200+)
 - ✈️ **ETIAN (ICAO English)** — ICAO Level 4
