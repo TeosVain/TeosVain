@@ -26,8 +26,8 @@
 
 | Проект | Описание | Технологии | Ссылка |
 |-------|----------|------------|--------|
-| **RPG Coop Game** | Веб-сервис RPG игра в реальном времени | Django, DRF, WebSockets, Channels, Redis, etc.| [GitHub 🔗](https://github.com/TeosVain/RPG_coop_game) |
-| **LZW_compresser** | Имплементация алгоритма сжатия Лемпеля—Зива—Велча | Python | [GitHub 🔗] (https://github.com/TeosVain/LZW_compresser) |
+| **RPG Coop Game** | Веб-сервис RPG игра в реальном времени | Django, DRF, WebSockets, Channels, Redis, etc.| [GitHub 🔗](https://github.com/TeosVain/Web_RPG_coop_game) |
+| **LZW_compresser** | Имплементация алгоритма сжатия Лемпеля—Зива—Велча | Python | [GitHub 🔗](https://github.com/TeosVain/LZW_compresser) |
 
 ---
 
