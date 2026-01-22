@@ -15,27 +15,25 @@
 
 ## 🇷🇺 Немного обо мне
 
-- 🛫 Начинал карьеру в авиации — уже 2 года стажа авиадиспетчером.  
-- 💻 Перешёл в IT: увлёкся Python, вебом и нейросетями.  
-- 💼 Веду backend-разработку в команде стартапа: проектируем движок для многопользовательской web-игры по мотивам *Dungeons & Dragons* (**Akatosphere**).  
-- 📚 Прошёл курсы Яндекс Практикума, CS50 (Harvard), Stepik.  
-- 🛠 Разрабатываю pet-проекты с Django, DRF, Celery, WebSockets.  
-- 🧩 Участвую в соревнованиях по алгоритмам (CodeRun, Яндекс 6.0, 7.0).  
+- 🛫 Начинал карьеру в авиации — уже 2 года стажа авиадиспетчером.
+- 💻 Перешёл в IT: увлёкся Python, вебом и нейросетями.
+- 💼 Веду backend-разработку в команде Ubego | https://ubego.quest/ru/
+- 🧩 Участвую в соревнованиях по алгоритмам и хакатонах
 
 ---
 
-## 🇷🇺 Pet-проекты
+### Pet-проекты
 
 | Проект | Описание | Технологии | Ссылка |
 |-------|----------|------------|--------|
-| **ATC Simulator** | Веб-симулятор авиадиспетчера в реальном времени | Django, DRF, WebSockets, Celery, Redis, Leaflet | [GitHub 🔗](https://github.com/TeosVain/ATC-SIM) |
-| **Foodgram** | Сервис рецептов и списка покупок | Django, PostgreSQL, Docker | [GitHub 🔗](https://github.com/TeosVain/foodgram) |
-| **Algorithms** | Реализации алгоритмов и задач | Python | [GitHub 🔗](https://github.com/TeosVain/Algorithms-and-Data-structures) |
+| **RPG Coop Game** | Веб-сервис RPG игра в реальном времени | Django, DRF, WebSockets, Channels, Redis, etc.| [GitHub 🔗](https://github.com/TeosVain/RPG_coop_game) |
+| **LZW_compresser** | Имплементация алгоритма сжатия Лемпеля—Зива—Велча | Python | [GitHub 🔗] (https://github.com/TeosVain/LZW_compresser) |
 
 ---
 
-## 🇷🇺 Достижения
+##  Достижения
 
+- **Финалист | 6место** - Хакатон "Лидеры цифровой трансформации 2025", команда "Экосистема Альфа"
 - 🧠 **Топ-100** — Яндекс.Тренировки по алгоритмам 7.0 (2025)  
 - 🏅 **Топ-300** — CodeRun Boost Challenge (243 место из 2200+)  
 - ✈️ **ETIAN (ICAO English)** — уровень 4 по шкале ICAO  
@@ -44,7 +42,7 @@
 
 ---
 
-## 🇷🇺 Контакты
+##  Контакты
 
 - 📧 Email: timofey.kononov@mail.ru  
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@TeosVain](https://t.me/TeosVain)  
@@ -54,36 +52,34 @@
 
 ## 🇬🇧 About Me
 
-- 🛫 Started my career in aviation — 2+ years as an Air Traffic Controller.  
-- 💻 Transitioned into IT: got passionate about Python, web development and AI.  
-- 💼 Currently building the backend for a startup project — a multiplayer web game inspired by *Dungeons & Dragons* (**Akatosphere**).  
-- 📚 Completed courses: Yandex Practicum (Python Developer), CS50 (Harvard), Stepik.  
-- 🛠 Develop personal projects using Django, DRF, Celery, WebSockets.  
-- 🧩 Participate in algorithmic competitions (CodeRun, Yandex contests 6.0 & 7.0).  
+- 🛫 Started my career in aviation — over 2 years of experience as an Air Traffic Controller.
+- 💻 Transitioned into IT with a strong focus on Python, web development, and neural networks.
+- 💼 Currently working as a backend developer in the Ubego team — https://ubego.quest/ru/
+- 🧩 Participate in algorithmic competitions and hackathons.
 
 ---
 
-## 🇬🇧 Pet Projects
+### Pet Projects
 
 | Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **ATC Simulator** | Real-time web simulator for air traffic controllers | Django, DRF, WebSockets, Celery, Redis, Leaflet | [GitHub 🔗](https://github.com/TeosVain/ATC-SIM) |
-| **Foodgram** | Recipe and shopping list service | Django, PostgreSQL, Docker | [GitHub 🔗](https://github.com/TeosVain/foodgram) |
-| **Algorithms** | Implementations of algorithms and coding challenges | Python | [GitHub 🔗](https://github.com/TeosVain/Algorithms-and-Data-structures) |
+|--------|-------------|------------|------|
+| **RPG Coop Game** | Real-time cooperative RPG web service | Django, DRF, WebSockets, Channels, Redis, etc. | [GitHub 🔗](https://github.com/TeosVain/RPG_coop_game) |
+| **LZW Compressor** | Implementation of the Lempel–Ziv–Welch compression algorithm | Python | [GitHub 🔗](https://github.com/TeosVain/LZW_compresser) |
 
 ---
 
-## 🇬🇧 Achievements
+## Achievements
 
-- 🧠 **Top-100** — Yandex Algorithmic Training 7.0 (2025)  
-- 🏅 **Top-300** — CodeRun Boost Challenge (243 out of 2200+)  
-- ✈️ **ETIAN (ICAO English)** — ICAO Level 4 certified
+- **Finalist | 6th place** — Leaders of Digital Transformation 2025 Hackathon, “Ecosystem Alpha” team
+- 🧠 **Top-100** — Yandex Algorithmic Training 7.0 (2025)
+- 🏅 **Top-300** — CodeRun Boost Challenge (243rd place out of 2200+)
+- ✈️ **ETIAN (ICAO English)** — ICAO Level 4
 
 ### 🌍 [Certificates & Achievements (GitHub repository)](https://github.com/TeosVain/certificates)  
 
 ---
 
-## 🇬🇧 Contacts
+##  Contacts
 
 - 📧 Email: timofey.kononov@mail.ru  
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@TeosVain](https://t.me/TeosVain)  
