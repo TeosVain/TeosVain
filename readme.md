@@ -63,7 +63,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **RPG Coop Game** | Real-time cooperative RPG web service | Django, DRF, WebSockets, Channels, Redis, etc. | [GitHub 🔗](https://github.com/TeosVain/RPG_coop_game) |
+| **RPG Coop Game** | Real-time cooperative RPG web service | Django, DRF, WebSockets, Channels, Redis, etc. | [GitHub 🔗](https://github.com/TeosVain/Web_RPG_coop_game) |
 | **LZW Compressor** | Implementation of the Lempel–Ziv–Welch compression algorithm | Python | [GitHub 🔗](https://github.com/TeosVain/LZW_compresser) |
 
 ---
